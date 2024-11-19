@@ -1,0 +1,3 @@
+5198692
+Time: 4774 msec.
+Memory: 336 MB / 1894 MB.
